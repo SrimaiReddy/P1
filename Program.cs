@@ -34,6 +34,12 @@ bool choice = false;
 
 
 do{
+    
+Console.WriteLine("\n select book from the list ");
+Console.WriteLine("\n 1.Java ");
+Console.WriteLine("\n 2.NS ");
+Console.WriteLine("\n 3.Webapps");
+
 Console.WriteLine("\n Enter book name ");
 
 bk = Console.ReadLine();
